@@ -6,7 +6,7 @@ function getUsername(element) {
     console.log(username);
 }
 
-
+// just testing 
 function cardsDiv(data) {
     if (data.login != undefined){
     var res =  `<div class="card">
